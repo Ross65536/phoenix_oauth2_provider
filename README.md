@@ -14,7 +14,7 @@ Add PhoenixOauth2Provider to your list of dependencies in `mix.exs`:
 def deps do
   [
     # ...
-    {:phoenix_oauth2_provider, "~> 0.5.1"}
+    {:phoenix_oauth2_provider, git: "https://github.com/Ross65536/phoenix_oauth2_provider", branch: "fork"},
     # ...
   ]
 end
