@@ -35,7 +35,8 @@ defmodule PhoenixOauth2Provider.Mixfile do
 
   defp deps do
     [
-      {:ex_oauth2_provider, "~> 0.5.1"},
+      {:ex_oauth2_provider, git: "https://github.com/Ross65536/ex_oauth2_provider.git", branch: "fork"},
+
       {:phoenix, "~> 1.4"},
       {:phoenix_html, "~> 2.0"},
 

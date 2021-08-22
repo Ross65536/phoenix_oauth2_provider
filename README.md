@@ -1,5 +1,7 @@
 # PhoenixOauth2Provider
 
+Forked from https://github.com/danschultzer/phoenix_oauth2_provider
+
 [![Build Status](https://travis-ci.org/danschultzer/phoenix_oauth2_provider.svg?branch=master)](https://travis-ci.org/danschultzer/phoenix_oauth2_provider) [![hex.pm](http://img.shields.io/hexpm/v/phoenix_oauth2_provider.svg?style=flat)](https://hex.pm/packages/phoenix_oauth2_provider) [![hex.pm downloads](https://img.shields.io/hexpm/dt/phoenix_oauth2_provider.svg?style=flat)](https://hex.pm/packages/phoenix_oauth2_provider)
 
 Get an OAuth 2.0 provider running in your Phoenix app with schema modules and templates in just two minutes.
